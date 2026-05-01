@@ -1,5 +1,5 @@
-dont readme now xD
+# ARC Raiders Optimization Tool
 
-#version: 1.0
+# This tool is designed to optimize the performance of ARC Raiders by managing system resources and processes. It includes features such as CPU affinity management, process monitoring, and power mode adjustments.
 
-#author: Regiber Montoya
+## Features
